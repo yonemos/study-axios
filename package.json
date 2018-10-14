@@ -1,7 +1,7 @@
 {
-  "name": "redux",
+  "name": "axios",
   "version": "1.0.0",
-  "description": "",
+  "description": "axiosの勉強！",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
